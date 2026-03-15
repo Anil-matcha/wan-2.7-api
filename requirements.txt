@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-torch
-transformers
-diffusers
-accelerate
-safetensors
-pydantic
-python-dotenv
